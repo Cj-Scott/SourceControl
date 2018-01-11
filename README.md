@@ -1,0 +1,2 @@
+# SourceControl
+AzureAutomationSourceControl
